@@ -15,10 +15,10 @@ It covers these concepts:
 - Pseudo Classes.
 
 ## Screenshots
-![Capture](https://github.com/Aizonati/Quote-Generator/assets/109864958/aa9b876d-4d52-4e94-b318-75bc6ab3bc50)
+![Capture](https://github.com/dhanraj-uchimahali/Quote-Generator/assets/109864958/aa9b876d-4d52-4e94-b318-75bc6ab3bc50)
 
 ## URL
-https://aizonati.github.io/quote-generator/
+https://github.com/dhanraj-uchimahali/quote-generator/
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first
